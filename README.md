@@ -3,6 +3,7 @@ Bright Ideas is a social blogging platform where users can log in, share their i
 
 FEATURES
 1. User Authentication
+
 **Register:
 
 * Users can sign up with the following fields:
